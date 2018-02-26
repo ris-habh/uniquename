@@ -2,7 +2,7 @@
 Model to get unique name from a data set.
 Download ml1.py and training_data.csv.
 Run the ml1.py.
-Enter date of birth in like 24/06/39.
+Enter date of birth in format of dd/mm/yy.
 Enter gender F/M.
 Enter First name in Capital letters.
 Enter Last name in Capital letters.
